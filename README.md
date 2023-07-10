@@ -1,8 +1,13 @@
-![image](https://github.com/ipsitaparida/RANSAC-variations/assets/13838099/fccf5dbe-b8f3-4c15-9fb0-db002f1a7b2f)![image](https://github.com/ipsitaparida/RANSAC-variations/assets/13838099/3aafbbcc-33ff-468c-af9d-314de2980baa)# RANSAC-variations
 Presentaion and papers on RANSAC algorithm and its variation
 
-Related Papers- 
-## References
+## Related papers
 <a id="1">[1]</a> 
 Jain, R., Kasturi, R., & Schunck, B. G. (1995). Machine vision (Vol. 5, pp. 309-364). New York: McGraw-hill.
+
+<a id="2">[2]</a> 
+Gallo, O., Manduchi, R., & Rafii, A. (2011). CC-RANSAC: Fitting planes in the presence of multiple surfaces in range data. Pattern Recognition Letters, 32(3), 403-410.
+
+<a id="3">[3]</a> 
+Qian, X., & Ye, C. (2014). NCC-RANSAC: A fast plane extraction method for 3-D range data segmentation. IEEE transactions on cybernetics, 44(12), 2771-2783.
+
 
